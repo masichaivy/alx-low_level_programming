@@ -4,3 +4,4 @@
 - 3-name displays script that compiles a C file and creates an executable
 - 4-puts.c displays C program with a new line
 - 5-printf.c displays a C program with a new line
+- 6-size.c displays a C program that prints sizes
