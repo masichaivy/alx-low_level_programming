@@ -3,3 +3,4 @@
 - 2-assembler displays script that generates the assembly code of a C code
 - 3-name displays script that compiles a C file and creates an executable
 - 4-puts.c displays C program with a new line
+- 5-printf.c displays a C program with a new line
