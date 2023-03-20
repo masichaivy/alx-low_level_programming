@@ -1,1 +1,2 @@
 - 0-preprocessor displays a script that runs a C file
+- 1-compiler displays script that compiles a C file with no link
