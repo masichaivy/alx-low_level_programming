@@ -1,3 +1,5 @@
 - dog.h displays a file defining a new type struct dog with the following elements; name, type = char*; age, type = float; owner, type = char *
 - 1-init_dog.c displays a function that initialize a variable of type struct dog
-- 
+- 2-print_dog.c displays a function that prints a struct dog
+- 4-new_dog.c displays a function that creates a new dog. 
+- 5-free_dog.c displays a function that frees dogs.
